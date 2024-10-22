@@ -10,7 +10,7 @@ public class LogFileParser {
 
         // Бесконечный цикл
         while (true) {
-            System.out.println("Введите путь к файлу:");
+            System.out.println("Введите путь к файлу : ");
             String path = scanner.nextLine();
 
             // Создаем объект File на основе введенного пути
